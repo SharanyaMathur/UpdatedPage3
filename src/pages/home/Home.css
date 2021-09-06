@@ -1,0 +1,26 @@
+.home{
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+}
+
+.feature {
+    flex:3;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+    flex:1;
+}
+
+.two {
+    font-family: 'Montserrat', sans-serif;
+    margin:10px;
+}
+  
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
